@@ -1,6 +1,6 @@
 # typkg
 
-Tiny and simple typst (git-repo-)package installer
+Tiny and simple [typst](https://github.com/typst/typst) (git-repo-)package installer
 
 ## installation
 
