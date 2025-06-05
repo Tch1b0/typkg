@@ -11,7 +11,7 @@ $ pip install git+https://github.com/Tch1b0/typkg.git
 ## usage
 
 ```sh
-$ typkg [-h] <repository_url>
+$ typkg [-h] [-v] <repository_url>
 ```
 
 ## example
