@@ -13,7 +13,7 @@ def run(repo_url: str, verbose: bool):
     PREFIX = {
         "win32": os.environ.get("AppData", ""),
         "linux": os.environ.get("XDG_DATA_HOME", ""),
-        "darwin": "~/Library/Application Support",
+        "darwin": "~/Library/Caches",
     }[sys.platform]
 
     with tempfile.TemporaryDirectory() as temp_dir:
